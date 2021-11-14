@@ -21,7 +21,7 @@ If you have any feedback, please reach out to mohitur669@gmail.com
 Clone the project
 
 ```bash
-  git clone https://github.com/Mohitur669/C-Programs.git
+  git clone https://github.com/Mohitur669/C-Teaching.git
 ```
 
 Go to the project directory
