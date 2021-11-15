@@ -1,3 +1,5 @@
+// passing or failing determination with if else
+
 #include <stdio.h>
 
 void main()

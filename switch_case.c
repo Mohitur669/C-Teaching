@@ -1,3 +1,5 @@
+// switch case eaxmple
+
 #include <stdio.h>
 
 void main()

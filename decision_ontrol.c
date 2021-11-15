@@ -1,3 +1,5 @@
+// if else statement example
+
 #include <stdio.h>
 
 void main()

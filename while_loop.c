@@ -1,3 +1,5 @@
+//while loop
+
 #include <stdio.h>
 
 void main()
