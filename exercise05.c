@@ -4,7 +4,6 @@
 
 void main()
 {
-    void clrscr();
     int n, fact = 1;
     printf("Enter the limit : ");
     scanf("%d", &n);
